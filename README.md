@@ -1,8 +1,8 @@
 # Software
 
-## TriBLE Default Firmwares / Apps
+### TriBLE Default Firmwares / Apps
 
- ### Using TriBLE with TriAnswer child boards
+ #### Using TriBLE with TriAnswer child boards
   
   **Q**: What are TriAnswer child boards? 
   
