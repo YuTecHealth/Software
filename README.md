@@ -33,7 +33,8 @@ alt="Yutech logo" width="200" height=""></code>
 	  - **PC:** Click [here](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	
  2. Power on TriBLE
- 3. Launch the App you want and follow the guidelines  
+ 3. Connect TriBLE and Software then enjoy!
+ 4. Steps by steps usages are in the following video:  
 
 	- iOS in this [video](https://youtu.be/2cSzfthJ7Kk?t=1438).
 	- Android in this [video](https://youtu.be/2cSzfthJ7Kk?t=909).
