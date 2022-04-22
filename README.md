@@ -24,7 +24,7 @@
  
     - Download here: 
 	
-	  - [**Android:**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_speedInfo.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_SCR_APP_QR.png" align="middle" 
+	  - [**Android:**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_SCR_APP_QR.png" align="middle" 
 alt="Yutech logo" width="200" height=""></code>
 	  
 	  - **iOS:**  App Store > Search [**TriBLE**](https://apps.apple.com/tw/app/trible/id1532572637) <br> and download <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_iOS_download.png" align="middle" 
