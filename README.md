@@ -24,13 +24,15 @@
  
     - Download here: 
 	
-	  - [**Android:**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_SCR_APP_QR.png" align="middle" 
+	  - **Android:** Play Store > Search [**TriBLE**](https://play.google.com/store/apps/details?id=com.yutech.trible) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_Android_APP_QR.png" align="middle" 
+alt="Yutech logo" width="200" height=""></code><code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_Android_download.jpg" align="middle" 
 alt="Yutech logo" width="200" height=""></code>
 	  
-	  - **iOS:**  App Store > Search [**TriBLE**](https://apps.apple.com/tw/app/trible/id1532572637) <br> and download <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_iOS_download.png" align="middle" 
+	  - **iOS:**  App Store > Search [**TriBLE**](https://apps.apple.com/tw/app/trible/id1532572637) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_iOS_APP_QR.png" align="middle" 
+alt="Yutech logo" width="200" height=""></code><code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_iOS_download.png" align="middle" 
 alt="Yutech logo" width="200" height=""></code>
 	  
-	  - **PC:** Click [here](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
+	  - **PC:** Matlab Based Application [(Click here)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	
  2. Power on TriBLE
  3. Connect TriBLE and Software then enjoy!
