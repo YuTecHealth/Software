@@ -4,12 +4,11 @@
 	
  * For **wireless** communication
  	* Firmware:
- 		* Factory Settings：TriBLE Official Firmware (iOS) <--also works on PC
- 		* TriBLE Official Firmware (Android)
+ 		* Factory Settings：TriBLE Official Firmware
  	* Software:
- 		* iOS (TriBLE)
- 		* Android (TriAnswer SCR APP)
- 		* PC (TriAnswer TCR APP)
+ 		* iOS (TriBLE)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=12)
+ 		* Android (TriBLE)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=133)
+ 		* PC (TriAnswer Controller)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=232)
 
 	     		 
   * For **wired** communication
