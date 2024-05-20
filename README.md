@@ -8,14 +8,17 @@
  	* Software:
  		* iOS (TriBLE)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=12)
  		* Android (TriBLE)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=133)
- 		* PC (TriAnswer Controller)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=232)
+ 		* PC
+		  
+     		* (Python based App)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=232)
+        	* (Matlab based TCR_AppInstaller App)  [**Watch Video**](https://www.youtube.com/watch?v=2cSzfthJ7Kk&t=1200s)
 
 	     		 
   * For **wired** communication
   	* Firmware:
   		* TriAnswer UART FW - Ver.S
   	* Software:
-  		* PC (TriAnswer TCR APP)
+  		* PC (Matlab based TCR_AppInstaller App)[**Watch Video**](https://youtu.be/2cSzfthJ7Kk?t=1627)
  
  
  ### Software using steps
@@ -23,7 +26,7 @@
  
     - Download here: 
 	
-	  - **Android:** Play Store > Search [**TriBLE**](https://play.google.com/store/apps/details?id=com.yutech.trible) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_Android_APP_QR.png" align="middle" 
+	  - **Android:** Play Store > Search [**TriBLE**](https://play.google.com/store/apps/details?id=com.yutech.trible.ken&hl=zh-TW) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_Android_APP_QR.png" align="middle" 
 alt="Yutech logo" width="200" height=""></code><code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_Android_download.jpg" align="middle" 
 alt="Yutech logo" width="200" height=""></code>
 	  
@@ -31,13 +34,9 @@ alt="Yutech logo" width="200" height=""></code>
 alt="Yutech logo" width="200" height=""></code><code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_iOS_download.png" align="middle" 
 alt="Yutech logo" width="200" height=""></code>
 	  
-	  - **PC:** Matlab Based Application [(Click here)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
+	  - **PC:**
+  	  - Python based App [(Click here)](https://drive.google.com/drive/folders/1d0Ha9hpJpxPEAyzRoZnSSR507ah7hEA2)
+   	  - Matlab based TCR_AppInstaller App [(Click here)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	
  2. Power on TriBLE
  3. Connect TriBLE and Software then enjoy!
- 4. Steps by steps usages are in the following video:  
-
-	- iOS in this [video](https://youtu.be/2cSzfthJ7Kk?t=1438).
-	- Android in this [video](https://youtu.be/2cSzfthJ7Kk?t=909).
-	- PC (wireless) in this [video](https://youtu.be/2cSzfthJ7Kk?t=1200).
-	- PC (wired) in this [video](https://youtu.be/2cSzfthJ7Kk?t=1627).
