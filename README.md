@@ -10,15 +10,15 @@
  		* Android (TriBLE)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=133)
  		* PC
 		  
-     		* (Python based App)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=232)
-        	* (Matlab based TCR_AppInstaller App)  [**Watch Video**](https://www.youtube.com/watch?v=2cSzfthJ7Kk&t=1200s)
+     		* (Python based App - windows)  [**Watch Video**](https://youtu.be/Ug0BuDZFy1M?t=232)
+        	* (Matlab based TCR_AppInstaller App - windows)  [**Watch Video**](https://www.youtube.com/watch?v=2cSzfthJ7Kk&t=1200s)
 
 	     		 
   * For **wired** communication
   	* Firmware:
   		* TriAnswer UART FW - Ver.S
   	* Software:
-  		* PC (Matlab based TCR_AppInstaller App)[**Watch Video**](https://youtu.be/2cSzfthJ7Kk?t=1627)
+  		* PC (Matlab based TCR_AppInstaller App - windows)[**Watch Video**](https://youtu.be/2cSzfthJ7Kk?t=1627)
  
  
  ### Software using steps
@@ -35,8 +35,8 @@ alt="Yutech logo" width="200" height=""></code><code><img src="https://github.co
 alt="Yutech logo" width="200" height=""></code>
 	  
 	  - **PC:**
-  	  - Python based App [(Click here)](https://drive.google.com/drive/folders/1d0Ha9hpJpxPEAyzRoZnSSR507ah7hEA2)
-   	  - Matlab based TCR_AppInstaller App [(Click here)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
+  	  - Python based App - windows [(Click here)](https://drive.google.com/drive/folders/1d0Ha9hpJpxPEAyzRoZnSSR507ah7hEA2)
+   	  - Matlab based TCR_AppInstaller App - windows [(Click here)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	
  2. Power on TriBLE
  3. Connect TriBLE and Software then enjoy!
